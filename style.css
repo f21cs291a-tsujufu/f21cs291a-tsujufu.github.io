@@ -18,6 +18,11 @@ div {
     display: inline-block;
     vertical-align: middle;
 }
+.bio {
+    padding-left: 20px;
+    width: 420px;
+    text-align: left;
+}
 img {
     width: 150px;
     border-radius: 10px;

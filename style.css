@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+body {
+    margin: auto;
+    padding-top: 20px;
+    width: 825px;
+    font-family: 'Nunito';
+}
+a {
+    color: #1772d0;
+    text-decoration: none;
+}
+a:focus, a:hover {
+    color: #f09228;
+    text-decoration: none;
+}
+div {
+    display: inline-block;
+    vertical-align: middle;
+}
+img {
+    width: 150px;
+    border-radius: 10px;
+}
+td {
+    text-align: center;
+    width: 150px;
+}
+th {
+    background: #eee;
+}
